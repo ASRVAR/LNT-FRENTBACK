@@ -1,0 +1,4 @@
+REACT_APP_API=http://localhost:33993/api/
+REACT_APP_API=http://localhost:5000/api/
+REACT_APP_PHOTOPATHA=http://localhost:5000/Photos/
+REACT_APP_PHOTOPATH=http://localhost:5000/RegPhotos/
